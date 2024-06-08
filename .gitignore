@@ -1,0 +1,10 @@
+.env
+downloaded
+*.png
+*.jpg
+*.txt
+.cache
+.vscode/*
+
+**/__pycache__/*
+PixelTune64/
